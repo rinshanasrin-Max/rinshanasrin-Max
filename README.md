@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 My Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [📈 Employee Dashboard](#) | Analyzed employee data and created an interactive Power BI dashboard. | Power BI, DAX |
-| [💵 Sales Report (Excel)](#) | Cleaned and visualized sales trends using pivot tables and charts. | Excel |
-| [🐍 Data Cleaning with Python](#) | Used pandas & matplotlib to clean and analyze data. | Python |
-
 ---
 
 ### 🌟 GitHub Stats
